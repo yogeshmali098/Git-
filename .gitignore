@@ -1,1 +1,4 @@
-mylogs.log
+/mylogs.log
+*.log  #it will be ignore all log files
+*.cpp  #it will be ignore all cpp files
+ignore/   # / is used for its an folder it will be also ignore
