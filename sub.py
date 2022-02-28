@@ -1,1 +1,3 @@
-print("hello its my first repository")
+a=20
+b=30
+print(b-a)
